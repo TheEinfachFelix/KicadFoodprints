@@ -1,0 +1,25 @@
+# KiCad Backups & temporäre Dateien
+*.bak
+*.kicad_prl
+*.tmp
+*~
+_autosave-*
+
+# OS-spezifisch
+.DS_Store
+Thumbs.db
+
+# KiCad Projekt- und Cache-Dateien (lokal regenerierbar)
+*.kicad_pro
+*.kicad_prl
+*.kicad_dru
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Simulation / Exporte
+*.net
+*.xml
+*.csv
+*.json
+*.pos
+*.rpt

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTV-817S
+D Optocoupler Transistor Output, 35V, SMD4 Lite-On LTV-817S DC Input Transistor Output Optocoupler, Surface Mount, 4-Pin SMD
+K
+F http://optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series%20201610%20.pdf
+$ENDCMP
+#
+#End Doc Library
